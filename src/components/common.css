@@ -1,0 +1,34 @@
+.main {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  background-color: blanchedalmond;
+}
+
+.cl {
+  margin: 5px;
+  padding: 5px;
+  border: 3px solid darkmagenta;
+  /* background: turquoise; */
+  background: #ffff;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sub-comp {
+  margin: 5px;
+  padding: 5px;
+  font-family: cursive;
+}
+
+.ci {
+  margin: 15px;
+  padding: 2px;
+  width: 150px;
+  border: 2px solid darkred;
+  background-color: gray;
+  color: whitesmoke;
+  border-radius: 20px;
+  box-shadow: 20px 10px 10px black;
+  text-align: center;
+}
